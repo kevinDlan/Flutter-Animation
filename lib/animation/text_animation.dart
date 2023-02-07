@@ -54,3 +54,5 @@ class _TextAnimationState extends State<TextAnimation> {
         ));
   }
 }
+
+// https://app.pluralsight.com/course-player?clipId=5e3e015b-9b60-4c22-a476-fee306b27b29
